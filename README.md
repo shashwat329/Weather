@@ -14,11 +14,10 @@ The Weather App is a beautifully designed iOS application built using Swift and 
 ---
 
 ## Screenshots
-![Weather App Screenshot 1](sample/Screenshot1.png)
+![Weather App Screenshot 1](Weather/sample/Screenshot1.png)
 
-![Weather App Screenshot 2](sample/Screenshot2.png)
+![Weather App Screenshot 2](/Weather/sample/Screenshot2.png)
 
-*(Replace placeholder images with actual screenshots)*
 
 ---
 
